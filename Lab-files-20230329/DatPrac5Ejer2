@@ -1,0 +1,53 @@
+# Created by Octave 3.2.3, Wed Apr 09 16:44:36 2014 Hora de verano romance <unknown@unknown>
+# name: A1
+# type: matrix
+# rows: 16
+# columns: 1
+ 2.7
+ 2.65
+ 2.83
+ 2.95
+ 2.64
+ 2.45
+ 3.01
+ 2.56
+ 2.76
+ 2.99
+ 2.76
+ 2.87
+ 3.05
+ 2
+ 2.65
+ 3.09
+# name: A2
+# type: matrix
+# rows: 23
+# columns: 1
+ 2.85
+ 2.89
+ 2.77
+ 3
+ 2.87
+ 2.76
+ 2.78
+ 2.67
+ 2.97
+ 2.99
+ 2.87
+ 2.93
+ 2.78
+ 2.98
+ 3.01
+ 2.84
+ 2.88
+ 2.79
+ 2.89
+ 2.91
+ 2.87
+ 2.88
+ 2.92
+# name: qtoctave_pwd
+# type: string
+# elements: 1
+# length: 31
+M:\Varios\Informatica\Lab-files

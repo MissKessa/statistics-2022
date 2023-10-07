@@ -1,0 +1,16 @@
+#2.1
+A
+#2.2
+B=sortrows(A,-1); #male=0, female=1 -Sort in in descending order
+#2.3
+W=B(1:9,:); #we extract from B the first 9 rows, where woman are
+#2.4
+M=B(10:17,:);
+#analysis of women:
+CW=W(1:9,5); #extract the cubic capacities (5th column) from the table of women
+unique(B); #obtain values in increasing order
+table(B); #obtain the absolute frequencies (ni)
+[unique(B),table(B).'], #join the ages and their absoulte frequencies 
+table(B)/length(B); #relative frequencies (fi)
+cumsum(table(B)); #accumulated absolute frequencies (Ni). Sample size (last value)=17
+cumsum(table(B))/length(B); #accumulated relative frequencies (Fi)
